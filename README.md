@@ -1,6 +1,6 @@
 
 # Agenda de Contatos
-Aplicação simples de agenda de contatos desenvolvida para praticar manipulação do DOM com JavaScript.
+Aplicação simples de agenda de contatos desenvolvida para praticar manipulação do DOM, eventos e lógica com JavaScript.
 
 ## 🚀 Tecnologias
 - HTML
@@ -8,19 +8,30 @@ Aplicação simples de agenda de contatos desenvolvida para praticar manipulaç�
 - JavaScript
 
 ## 📚 Sobre o projeto
-A aplicação permite adicionar contatos dinamicamente a uma lista, simulando uma agenda simples.
+A aplicação permite adicionar contatos e telefones em uma agenda dinâmica, exibindo os dados em formato de tabela sem recarregar a página.
 
 ## ✨ Funcionalidades
-- Inserir nome e telefone via formulário
-- Adicionar novos contatos à lista
-- Atualização dinâmica da tabela sem recarregar a página
-- Exibição dos contatos cadastrados em formato de tabela
+- Cadastro de contatos
+- Cadastro de telefones
+- Atualização dinâmica da tabela
+- Validação para impedir contatos duplicados
+- Formatação automática de telefone
+- Exibição organizada em tabela
 
 ## 📋 Estrutura
 - Formulário para cadastro de contatos
 - Tabela com colunas:
   - Nome
   - Telefone
+
+## 🧠 Conceitos praticados
+- Manipulação do DOM
+- Eventos com JavaScript
+- Arrays
+- Condicionais
+- Funções
+- Atualização dinâmica de conteúdo HTML
+- Expressões regulares (Regex)
 
 ## 🔗 Acesso ao projeto 
 https://projeto-agenda-de-contatos-six.vercel.app/
